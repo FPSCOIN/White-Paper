@@ -1,3 +1,6 @@
-# Tests
-Maroc:  
-# Tests1
+# Overview 
+One of the biggest winners of the COVID-19 crisis was the video game industry, as people turn to games during the lockout to bridge the time gap. According to Newzoo Global Games Market Report 2021; “the games market will grow with a healthy Compound Annual Growth Rate (2019 to 2024) of +8.7% to reach $218.7 billion in 2024”. Add to that, more player growth is imminent, Newzoo has reported an impressive rate of +5.4% from 2020 to 2021. Today, it has become obvious that GAMING is the future, and many companies and investors have already understood it and started investing in it massively.
+Halfway this immense gaming industry growth, the first-person shooter (FPS) games are found on the top of the list. FPS is a video game centered on gun and other weapon-based combat in a first-person perspective, with player experiencing the action through the eyes of the protagonist and controlling the player character in a three-dimensional space.  FPS games were the most commercially viable video game genre in 2016, and shooters accounted for over 27% of all video game sales. Today, FPS games generate more than 50% of all video game revenues! 
+On the light of the gaming outbreak, and as real GAMERS and CRYPTO industry enthusiasts, we decided to join this incredible journey by creating an ALL-IN-ONE gaming cryptocurrency. We brought FPSCOIN into existence, to address all gamers and gaming fans concerns and needs, by proposing a range of complete, practical, and innovative solutions to every issue. But that is not all, FPSCOIN project aims as well to offer a unique experience of FUN and REWARD to its community. Our motto is HODL, PLAY, EARN!
+We are taking the gaming sector to the next level; FPSCOIN spaceship is taking off 🚀. So, hurry-up and join us in our trip to the moon RIGHT NOW😉!!
+
