@@ -68,7 +68,7 @@ As gamers, we always wanted to organize tournaments with friends or new people, 
 We created FPSTOURNAMENT to resolve all those issues; It’s a platform that will allow players to set up tournaments in every shooting game they want (Call of Duty, Fortnite, Warzone, Apex, Counter strike, PUBG, …), invite friends or new people to play with and feel at home. 
 
 FPSTOURNAMENT is a complete innovation; it will be the first website platform allowing to create game tournament and what makes it even more innovative is it simplicity of use: You can create or join a tournament, invite gamers, and set up prizes very easily and instantly. So, you can concentrate on the most important, which is having fun and proving you’re the best. All biggest platforms will be supported on FPSTOURNAMENT (PlayStation, Xbox, Switch, PC, Smartphone/Tablets …)
-
+![alt text](https://github.com/FPSCOIN/White-Paper/blob/main/Images/Platforms.png)
 But our upmost advantage is the ability to set up a prize and pay everything with FPSCOIN, it can seem simple, but that’s a gamechanger. Having the ability to set up prizes and pay with FPSCOIN directly from your wallet will allow you to avoid fees, in addition, it is instantaneous and very safe. 
 
 This feature will cut out all middleman and fees related to banks, organizations, countries legislation or exchange; thus, you’ll pay the amount needed and nothing more without interfering with any third part. 
@@ -109,6 +109,9 @@ Our marketplace will also give you the chance of __opening a BIDs__ on your sele
 
 With FPSNFT, get appreciation, fame, and MONEY 🤑 🤑!
 # FPS BUDDY
+
+![alt text](https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSHANGOUT.png)
+
 The evolution of gaming industry has offered gamers great opportunities of fun and competition, but it has also emphasized some stereotypes attached to gamers and gaming sphere. Some of these spread ideas are not completely false. Many gamers isolate themselves in their rooms, couches, consoles, and mobile devices and find it very hard to make new friends or simply connect with people. 
 
 One of the reasons causing this ‘locking-up’ situation, is the limited interaction options available in the in-game environment, this has made the interaction process limited to the game itself and to its skins. 
@@ -118,6 +121,8 @@ FPSCOIN project came to solve this issue; one of our major purposes is connectin
 With FPSBUDDY you will find your gaming buddy that you can play with, expend your friendship network, find unique friends who share same values as you, and finally get to know the human behind the skin you’re competing with 😉!
 
 Download FPSBUDDY, sign-in, set your preferences and start connecting with gamers now!
+
+![alt text](https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSBUDDY1.png)
 
 * __Recommended rooms depending on preferences:__
 Our FPS BUDDY app use a developed algorithm that will allow you to join the best public rooms, that match your preferences. Therefore, no need to look for a long time to connect with other players that have the same interest as you. If you’re already in a group, its room will also be available on the home screen even if it’s private.   
@@ -129,7 +134,10 @@ Private rooms are accessible via invitations or room ID.
 * __Games history and achievements:__
 All your preferences, achievements and game history are linked with your account. Share your glory with other players! 
 Joining rooms is cool but what can we do inside those rooms? Many features are waiting for you. Once in a room you can share your thoughts via chats, audio, videos or even share you screen with other members. In the second version of the app, it will be possible to organize tournament and invite however you want.  
-All those features are thought so you can share a fun experience and connect with other gamers while playing your favorites games. And all this is for FREE!  
+All those features are thought so you can share a fun experience and connect with other gamers while playing your favorites games. And all this is for FREE! 
+
+![alt text](https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSBUDDY2.png)
+
 # Marketing, development strategy, and community values
 To accompany our development and all the features offered by FPSCOIN. We have put development strategy on top of our priorities. It will be based on continuous improvement as we reserve 10% of our total supply for it when other crypto projects don’t exceed 4% on average.
 Our marketing strategy will be based on a targeted marketing of different channels (Ads, influencers, known gamers, …) because knowing the needs of our users is an important step to meet them.
@@ -137,6 +145,9 @@ We’re already present in all major social media platforms, there are tens of t
 In a rapidly changing world, we need to be flexible and responsive. Our team is constantly looking for new opportunities, features, and projects to improve gamers experience. Many additional features are already being analyzed and will be announced soon. 
 Our goal is to constantly propose solutions and update to our community to strengthen the links that unifies us. 
 # Charity
+
+![alt text](https://github.com/FPSCOIN/White-Paper/blob/main/Images/CHARITY.png)
+
 Our project is all about community and is human-oriented. We are invested in personalizing our user experience by being involved in community service activities.
 
 FPSCOIN provides gamers with a platform where they can generate earnings, but we cannot forget about those who cannot even have basic human rights. Our purpose is to give back to the community by helping to stop child labour, hunger, and diseases in poor countries, and by providing support for natural catastrophes victims all over the world. 
@@ -151,15 +162,21 @@ We have invested time on our token and tax distribution to bring the best comfor
       * Total Supply:  1,000,000,000,000 (1 trillion)
 
 * __Distribution of Tokens:__
+
+![alt text](https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSTOKENS.png)
+
 __Tax distribution:  It's all about Hodling !__
 FPSCOIN smart contract was designed to reward long-term Holders and to discourage short-term investors from selling prematurely. FPSCOIN has introduced a dynamic mechanism based on hodl time of each wallet and price impact. This will reduce the volatility of the token price, increase the token value over time and protect true Holders from pumping & dumping phenomena and huge price impact
 
+![alt text](https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSMECHANISM.png)
 
 FPSCOIN mechanism is built different, design to reward True Holders, and discourage dumping. We have spent days analyzing today’s tokens, making the most of each project to ensure a safe launch, a rocket road to the moon and specially to protect our soldier.
 
 Each sell is limited to 3% impact to prevent whale dumps. 
 To avoid pumping & dumping phenomena, our smart contract was designed in ingenious way to tax heavily BOTS, and earlier seller. 
 * __Token release rules :__
+
+![alt text](https://github.com/FPSCOIN/White-Paper/blob/main/Images/TOKENSRULES.png)
 
 ## Conclusion
 After Bitcoin, Ethereum, Altcoins, Memecoins season, it is the video game industry and blockchain that are on the verge of the next wave of mass adoption.  
