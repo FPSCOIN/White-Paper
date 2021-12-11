@@ -73,7 +73,7 @@ What’s more entertaining than a tournament to prove who’s the best?
 As gamers, we always wanted to organize tournaments with friends or new people, but we always faced the same questions and issues. We couldn’t find a simple, safe, and fun tool to create tournaments. And even by organizing it some way, we faced safety issues and no way to make sure that every participant pays it contribution and no way to ensure that winners will receive their money. In addition to all this, there are a lot of intermediaries and fees for banks, organizations, and exchange.
 
 <p align="center">
-  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSTOURNAMENT.jpg" width="600" />
+  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSTOURNAMENT.jpg" width="700" />
 </p>
 
 We created FPSTOURNAMENT to resolve all those issues; It’s a platform that will allow players to set up tournaments in every shooting game they want (Call of Duty, Fortnite, Warzone, Apex, Counter strike, PUBG, …), invite friends or new people to play with and feel at home. 
@@ -86,10 +86,7 @@ This feature will cut out all middleman and fees related to banks, organizations
 
 We didn’t lie when we said that our motto is “HODL, PLAY and EARN”; by investing on FPSCOIN and use it to play and win tournaments, you can raise a lot of FPSCOIN that you can hodl to increase even more your balance or sell them to EARN money. Either way you’re a winner! 
 
-<p align="center">
-  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSTOURNAMENT2.png" width="400" />
-</p>
-
+ <img align="right" width="400" src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSTOURNAMENT2.png">
 Our support team will be available 24/7 to resolve any problem, answer any question that gamers may face. We will also be responsible for validating the prizes to winners; by checking the proof (video, screenshot, ...) of winning the tournament. The prizes will be sent directly to the winners in their Wallet in a simple and safe way with a notification by email.
 
 Several tournaments will be organized by our teams on FPSTOURNAMENT, these tournaments will be open to everyone with several awards & prizes to win.
@@ -128,7 +125,7 @@ With FPSNFT, get appreciation, fame, and MONEY 🤑 🤑!
 # FPS BUDDY
 
 <p align="center">
-  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSHANGOUT.png" width="600" />
+  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSHANGOUT.png" width="800" />
 </p>
 
 The evolution of gaming industry has offered gamers great opportunities of fun and competition, but it has also emphasized some stereotypes attached to gamers and gaming sphere. Some of these spread ideas are not completely false. Many gamers isolate themselves in their rooms, couches, consoles, and mobile devices and find it very hard to make new friends or simply connect with people. 
@@ -137,13 +134,8 @@ One of the reasons causing this ‘locking-up’ situation, is the limited inter
 
 FPSCOIN project came to solve this issue; one of our major purposes is connecting people, and that is why we’ve created __FPS BUDDY__. FPSBUDDY App allow players to connect with other gamers, play with them depending on their preferences, from all around the world. 
 
-With __FPSBUDDY__ you will find your gaming buddy that you can play with, expend your friendship network, find unique friends who share same values as you, and finally get to know the human behind the skin you’re competing with 😉!
-
+With __FPSBUDDY__ you will find your gaming buddy that you can play with, expend your friendship network, find unique friends who share same values as you, and finally get to know the human behind the skin you’re competing with 😉! 
 Download __FPSBUDDY__, sign-in, set your preferences and start connecting with gamers now!
-
-<p align="center">
-  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSBUDDY11.png.jpg" width="300" />    <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSBUDDY2.png.jpg" width="300"/>
-</p>
 
 * __Recommended rooms depending on preferences:__
 Our FPS BUDDY app use a developed algorithm that will allow you to join the best public rooms, that match your preferences. Therefore, no need to look for a long time to connect with other players that have the same interest as you. If you’re already in a group, its room will also be available on the home screen even if it’s private.   
@@ -157,6 +149,10 @@ All your preferences, achievements and game history are linked with your account
 Joining rooms is cool but what can we do inside those rooms? Many features are waiting for you. Once in a room you can share your thoughts via chats, audio, videos or even share you screen with other members. In the second version of the app, it will be possible to organize tournament and invite however you want.  
 All those features are thought so you can share a fun experience and connect with other gamers while playing your favorites games. And all this is for FREE! 
 
+ <p align="center">
+  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSBUDDY11.png.jpg" width="300" />    <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSBUDDY2.png.jpg" width="300"/>
+</p>
+
 # Marketing, development strategy, and community values
 To accompany our development and all the features offered by FPSCOIN. We have put development strategy on top of our priorities. It will be based on continuous improvement as we reserve 10% of our total supply for it when other crypto projects don’t exceed 4% on average.
 Our marketing strategy will be based on a targeted marketing of different channels (Ads, influencers, known gamers, …) because knowing the needs of our users is an important step to meet them.
@@ -167,7 +163,7 @@ Our goal is to constantly propose solutions and update to our community to stren
 # CHARITY
 
 <p align="center">
-  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/CHARITY.png" width="600"/>
+  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/CHARITY.png" width="800"/>
 </p>
 
 Our project is all about community and is human-oriented. We are invested in personalizing our user experience by being involved in community service activities.
