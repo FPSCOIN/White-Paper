@@ -85,8 +85,7 @@ But our upmost advantage is the ability to set up a prize and pay everything wit
 This feature will cut out all middleman and fees related to banks, organizations, countries legislation or exchange; thus, you’ll pay the amount needed and nothing more without interfering with any third part. 
 
 We didn’t lie when we said that our motto is “HODL, PLAY and EARN”; by investing on FPSCOIN and use it to play and win tournaments, you can raise a lot of FPSCOIN that you can hodl to increase even more your balance or sell them to EARN money. Either way you’re a winner! 
-
- <img align="right" width="400" src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSTOURNAMENT2.png">
+<img align="right" width="400" src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSTOURNAMENT2.png">
 Our support team will be available 24/7 to resolve any problem, answer any question that gamers may face. We will also be responsible for validating the prizes to winners; by checking the proof (video, screenshot, ...) of winning the tournament. The prizes will be sent directly to the winners in their Wallet in a simple and safe way with a notification by email.
 
 Several tournaments will be organized by our teams on FPSTOURNAMENT, these tournaments will be open to everyone with several awards & prizes to win.
