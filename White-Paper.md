@@ -177,7 +177,7 @@ We have invested time on our token and tax distribution to bring the best comfor
 * __FPSCOIN Token:__
 
       * Token Symbol: $FPSCOIN 
-      * Total Supply:  1,000,000,000,000 (1 trillion)
+      * Total Supply:  1,000,000,000,000,000,000
 
 * __Distribution of Tokens:__
 
