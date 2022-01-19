@@ -182,14 +182,14 @@ We have invested time on our token and tax distribution to bring the best comfor
 * __Distribution of Tokens:__
 
 <p align="center">
-  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSTOKENS.png" />
+  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSTOKEN.png" />
 </p>
 
 __Tax distribution:  It's all about Hodling !__
 FPSCOIN smart contract was designed to reward long-term Holders and to discourage short-term investors from selling prematurely. FPSCOIN has introduced a dynamic mechanism based on hodl time of each wallet and price impact. This will reduce the volatility of the token price, increase the token value over time and protect true Holders from pumping & dumping phenomena and huge price impact
 
 <p align="center">
-  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPSMECHANISM.png" />
+  <img src="https://github.com/FPSCOIN/White-Paper/blob/main/Images/FPS-MECHANISM.png" />
 </p>
 
 FPSCOIN mechanism is built different, design to reward True Holders, and discourage dumping. We have spent days analyzing today’s tokens, making the most of each project to ensure a safe launch, a rocket road to the moon and specially to protect our soldier.
